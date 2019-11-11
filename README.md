@@ -1,2 +1,3 @@
-# SumoRobot
-This is strategy script I wrote for my sumo_robot using finite machine methodology.
+# Info about SumoRobot Script
+This repository is developed under vscode with platformio plugin
+
